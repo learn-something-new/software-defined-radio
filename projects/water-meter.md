@@ -1,5 +1,14 @@
 # Water Meters
 
+## Requirements
+
+**Hardware**
+- RTL-SDR Receiver
+
+**Software**
+- rtl_tcp
+- rtlamr
+
 ## Steps
 
 ### Finding your ID
