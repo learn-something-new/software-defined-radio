@@ -1,10 +1,12 @@
 # Software Defined Radio
 
-## Uses
+## Guides
 
 - [Monitor your water meter](projects/water-meter.md)
 - Watch air traffic overhead (ADSB)
 - Decode packet radio (APRS)
+- [[External] Reverse Engineer Resturant Pagers](https://www.rtl-sdr.com/using-a-hackrf-to-reverse-engineer-and-control-restaurant-pagers/)
+- [[External] Build an IMSI Catcher](https://harrisonsand.com/imsi-catcher/)
 
 ## Hardware
 
@@ -12,12 +14,12 @@
 
 **[Nooelec NESDR SMArt](https://www.nooelec.com/store/sdr/sdr-receivers/nesdr-smart-sdr.html)**
 
-- 2 MHz - 1.75 GHz
+- 25 MHz - 1.75 GHz
 - Aluminum Housing
 
 **[Nooelec NESDR SMArTee](https://www.nooelec.com/store/sdr/sdr-receivers/nesdr-smart-sdr.html)**
 
-- 2 MHz - 1.75 GHz
+- 25 MHz - 1.75 GHz
 - Aluminum Housing
 - 4.5V USB Powered Bias Tee
 
@@ -28,7 +30,7 @@
 
 **[Generic DVD-B+DAB+FM SDR](https://www.amazon.ca/RTL-SDR-DVB-T-Stick-RTL2832U-R820T/dp/B00D3X9LR4)**
 
-- 2 MHz - 1.75 GHz
+- 25 MHz - 1.75 GHz
 
 **[RTL-SDR Blog SDR](https://www.rtl-sdr.com/buy-rtl-sdr-dvb-t-dongles/)**
 
@@ -39,12 +41,12 @@
 
 **[FlightAware Pro Stick](https://flightaware.com/adsb/prostick/)**
 
-- 2 MHz - 1.75 GHz
+- 25 MHz - 1.75 GHz
 - On board RF Amplifier
 
 **[FlightAware Pro Stick Plus](https://flightaware.com/adsb/prostick/)**
 
-- 2 MHz - 1.75 GHz
+- 25 MHz - 1.75 GHz
 - On board RF Amplifier
 - On board 1090MHz Filter
 
