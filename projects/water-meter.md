@@ -41,3 +41,6 @@ Apply a filter with your ID
 ## References
 - [https://hackaday.com/2014/02/25/using-sdr-to-read-your-smart-meter/](https://hackaday.com/2014/02/25/using-sdr-to-read-your-smart-meter/)
 - [https://github.com/bemasher/rtlamr](https://github.com/bemasher/rtlamr)
+
+## License 
+This tool is protected by the GNU General Public License v2.
