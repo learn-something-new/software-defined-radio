@@ -96,33 +96,25 @@ Examples:
 - GQRX - SDR Receiver
 - Spektrum - Spectrum Analyzer
 - Universal Radio Hacker (URH) - analyze wireless protocols
-- Ooktools - On-off keying tools
 - rfcat
 - freqwatch
 - Inspectrum - analize offline signals
 - DSpectrumGUI
 - rtl_tcp
+- Freqwatch - frequency counter / logger
+- ham2mon - HAM Radio monitor
 
-### ADSB
+### Single Purpose
 
 - Dump1090 - ADSB
-
-### Trunked Radio
-
 - SDRtrunk - Monitor digital trunked radio
-
-### Packet Radio
-
 - direwolf - ADSB packet modem
 - Xastir - APRS Mapping
-
-### Digital
-
 - multimon-ng - decode pagers
-
-### Other
-
 - Spectrum Painter - Troll the radio waves
+- Ooktools - On-off keying tools
+- rtlamr - Smart Meter data receiver
+- rtl_443 - ISM band data receiver
 
 ## License
 
