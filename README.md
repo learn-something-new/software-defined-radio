@@ -1,10 +1,10 @@
 # Software Defined Radio
 
-## Guides
+## Uses
 
 - [Monitor your water meter](projects/water-meter.md)
+- [Listen to local ambulance and fire (Digital Trunked Radio)](projects/sdrtrunk.md)
 - Watch air traffic overhead (ADS-B)
-- Listen to local ambulance and fire (Digital Trunked Radio)
 - Decode packet radio (APRS)
 - [[External] Reverse Engineer Resturant Pagers](https://www.rtl-sdr.com/using-a-hackrf-to-reverse-engineer-and-control-restaurant-pagers/)
 - [[External] Build an IMSI Catcher](https://harrisonsand.com/imsi-catcher/)
