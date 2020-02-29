@@ -11,8 +11,14 @@
 
 ## Steps
 
-Install the latest version of SDRTrunk from the [releases](https://github.com/DSheirer/sdrtrunk/releases) page on there GitHub, at the time this was 0.4.0 Beta 5
+**Installation** 
+First download the latest version of SDRTrunk from the [releases](https://github.com/DSheirer/sdrtrunk/releases) page on there GitHub, at the time this was 0.4.0 Beta 5.
 ![releases](../screenshots/sdrtrunk-1.png)
+
+Next we need the JMBE library so we can decode the audio and hear what people are saying, this is a bit more complicated because a binary isn't provided, however the installation uses Gradle and they have good documentation.
+![releases](../screenshots/sdrtrunk-2.png)
+
+You can install it using the [instructions](https://github.com/DSheirer/jmbe/blob/master/README.md) on the JMBE Wiki and when you are done you should have a file (in your build directory) `codec\build\libs\jmbe-1.0.0.jar`, you can store this anywheres because you set it's location in SDRTrunk however I personally like to store it in the libs folder of the SDRTrunk source (`sdr-trunk-linux-x86_64-v0.4.0-beta.5/lib`).
 
 
 ## References
