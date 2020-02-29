@@ -23,11 +23,22 @@ You can install it using the [instructions](https://github.com/DSheirer/jmbe/blo
 **Configuration**
 
 *Optional*
-The first time you run SDRTrunk it will create a folder to store it's presets and settings located in your home folder ('~/SDRTrunk/`), I've shared my copy which includes the frequencies and call groups for most of HRM, if you would like to use this just download it and place it in your home folder.
-
-[SDRTrunk.tar.gz](../resources/SDRTrunk.tar.gz)
+The first time you run SDRTrunk it will create a folder to store it's presets and settings located in your home folder ('~/SDRTrunk/`), I've shared my copy which includes the frequencies and call groups for most of HRM, if you would like to use this just download it and place it in your home folder. [SDRTrunk.tar.gz](../resources/SDRTrunk.tar.gz)
 
 ![config](../screenshots/sdrtrunk-3.png)
+
+*Important*
+This step is important because if you miss it you will see the active talk groups however be unable to listen. Open SDRTrunk (using the sdrtrunk file in the bin folder) and then open preverences via the view menu. Select the "JMBE Audio Decoder" menu option on the left and then tell SDRTrunk where your jmbe-1.0.0.jar is located.
+
+![config](../screenshots/sdrtrunk-4.png)
+
+**Usage**
+You can use SDRTrunk with a single radio however the way trunked radio works is with a specific center frequency that handles all the metadata of talk groups, so with two radios you will have a better experience and be able to monitor more talk groups and even multiple radio systems. 
+
+*Important*
+It is important to note that this will not work with encrypted communication, in my area that is mostly only used by police however some cities are starting to use it for all communications. In my config I've labeled everything that would be encrypted and then configured SDRTrunk to not play the audio for them, I see them in my list of active talk groups but nothing else. 
+
+![config](../screenshots/sdrtrunk-5.png)
 
 ## References
 - [SDRTrunk](https://github.com/DSheirer/sdrtrunk)
