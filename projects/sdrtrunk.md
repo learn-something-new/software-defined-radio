@@ -20,6 +20,14 @@ Next we need the JMBE library so we can decode the audio and hear what people ar
 
 You can install it using the [instructions](https://github.com/DSheirer/jmbe/blob/master/README.md) on the JMBE Wiki and when you are done you should have a file (in your build directory) `codec\build\libs\jmbe-1.0.0.jar`, you can store this anywheres because you set it's location in SDRTrunk however I personally like to store it in the libs folder of the SDRTrunk source (`sdr-trunk-linux-x86_64-v0.4.0-beta.5/lib`).
 
+**Configuration**
+
+*Optional*
+The first time you run SDRTrunk it will create a folder to store it's presets and settings located in your home folder ('~/SDRTrunk/`), I've shared my copy which includes the frequencies and call groups for most of HRM, if you would like to use this just download it and place it in your home folder.
+
+[SDRTrunk.tar.gz](../resources/SDRTrunk.tar.gz)
+
+![config](../screenshots/sdrtrunk-3.png)
 
 ## References
 - [SDRTrunk](https://github.com/DSheirer/sdrtrunk)
