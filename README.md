@@ -3,7 +3,7 @@
 ## Guides
 
 - [Monitor your water meter](projects/water-meter.md)
-- Watch air traffic overhead (ADSB)
+- Watch air traffic overhead (ADS-B)
 - Decode packet radio (APRS)
 - [[External] Reverse Engineer Resturant Pagers](https://www.rtl-sdr.com/using-a-hackrf-to-reverse-engineer-and-control-restaurant-pagers/)
 - [[External] Build an IMSI Catcher](https://harrisonsand.com/imsi-catcher/)
@@ -77,7 +77,7 @@ Reduce the noise figure and increase SNR for a specific frequency or range.
 
 Examples:
 
-- ADSB: Amplifies the 1090 MHz frequency to improve ADSB reception
+- ADS-B: Amplifies the 1090 MHz frequency to improve ADS-B reception
 - Wideband: A general purpose LNA often in the 20MHz-4000MHz range
 - GEOS: Center frequency of 1688 MHz for NOAA
 
@@ -106,9 +106,9 @@ Examples:
 
 ### Single Purpose
 
-- Dump1090 - ADSB
+- Dump1090-fa - ADS-B
 - SDRtrunk - Monitor digital trunked radio
-- direwolf - ADSB packet modem
+- direwolf - APRS packet modem
 - Xastir - APRS Mapping
 - multimon-ng - decode pagers
 - Spectrum Painter - Troll the radio waves
