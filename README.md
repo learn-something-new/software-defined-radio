@@ -17,8 +17,9 @@
 **Decode packet radio (APRS)**   
 ![aprs](screenshots/aprs-1.png)
 
-**[External] [Reverse Engineer Resturant Pagers](https://www.rtl-sdr.com/using-a-hackrf-to-reverse-engineer-and-control-restaurant-pagers/)**   
-**[External] [Build an IMSI Catcher](https://harrisonsand.com/imsi-catcher/)**   
+### Other Examples
+- [External] [Reverse Engineer Resturant Pagers](https://www.rtl-sdr.com/using-a-hackrf-to-reverse-engineer-and-control-restaurant-pagers/)
+- [External] [Build an IMSI Catcher](https://harrisonsand.com/imsi-catcher/)
 
 ## Hardware
 
