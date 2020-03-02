@@ -110,24 +110,24 @@ Examples:
 - Spektrum - Spectrum Analyzer
 - Universal Radio Hacker (URH) - analyze wireless protocols
 - rfcat
-- freqwatch
+- [freqwatch](https://github.com/covertcodes/freqwatch) - frequency counter / logger
 - Inspectrum - analize offline signals
 - DSpectrumGUI
 - rtl_tcp
-- Freqwatch - frequency counter / logger
 - ham2mon - HAM Radio monitor
 
 ### Single Purpose
 
-- Dump1090-fa - ADS-B
-- SDRtrunk - Monitor digital trunked radio
-- direwolf - APRS packet modem
-- Xastir - APRS Mapping
-- multimon-ng - decode pagers
+- [Dump1090-fa](https://github.com/flightaware/dump1090) - ADS-B
+- [SDRtrunk](https://github.com/DSheirer/sdrtrunk) - Monitor digital trunked radio
+- [multimon-ng](https://github.com/EliasOenal/multimon-ng/) - decode pagers
 - Spectrum Painter - Troll the radio waves
 - Ooktools - On-off keying tools
-- rtlamr - Smart Meter data receiver
-- rtl_443 - ISM band data receiver
+- [rtlamr](https://github.com/bemasher/rtlamr) - Smart Meter data receiver
+- [rtl_443](https://github.com/merbanan/rtl_433) - ISM band data receiver
+- [PyPacket](https://github.com/mike01/pypacker) - APRS I-Gate
+- [direwolf](https://github.com/wb2osz/direwolf) - APRS packet modem
+- [Xastir](https://github.com/Xastir/Xastir) - APRS Mapping
 
 ## License
 
