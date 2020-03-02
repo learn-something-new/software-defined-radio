@@ -113,7 +113,6 @@ Examples:
 - freqwatch
 - Inspectrum - analize offline signals
 - DSpectrumGUI
-- rtl_tcp
 - Freqwatch - frequency counter / logger
 - ham2mon - HAM Radio monitor
 
@@ -128,6 +127,11 @@ Examples:
 - Ooktools - On-off keying tools
 - rtlamr - Smart Meter data receiver
 - rtl_443 - ISM band data receiver
+
+### Utilities
+
+- rtl_tcp
+- [hackrf_tcp](https://github.com/jpenalbae/hackrf_tcp) - rtl_tcp implementation for hackrf
 
 ## License
 
