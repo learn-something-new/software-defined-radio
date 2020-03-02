@@ -12,7 +12,7 @@
 ![adsb](screenshots/adsb-1.png)
 
 **Rerad temperature sensors**
-![rtl443](screenshots/temp-sensor-1.png)
+![rtl433](screenshots/temp-sensor-1.png)
 
 **Decode packet radio (APRS)**   
 ![aprs](screenshots/aprs-1.png)
@@ -124,7 +124,7 @@ Examples:
 - Spectrum Painter - Troll the radio waves
 - Ooktools - On-off keying tools
 - [rtlamr](https://github.com/bemasher/rtlamr) - Smart Meter data receiver
-- [rtl_443](https://github.com/merbanan/rtl_433) - ISM band data receiver
+- [rtl_433](https://github.com/merbanan/rtl_433) - ISM band data receiver
 - [PyPacket](https://github.com/mike01/pypacker) - APRS I-Gate
 - [direwolf](https://github.com/wb2osz/direwolf) - APRS packet modem
 - [Xastir](https://github.com/Xastir/Xastir) - APRS Mapping
@@ -133,6 +133,7 @@ Examples:
 
 - rtl_tcp
 - [hackrf_tcp](https://github.com/jpenalbae/hackrf_tcp) - rtl_tcp implementation for hackrf
+- [SoapySDR](https://github.com/pothosware/SoapySDR) - Vendor neutral SDR library
 
 ## License
 
