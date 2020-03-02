@@ -8,15 +8,15 @@
 **[Listen to local ambulance and fire (Digital Trunked Radio)](projects/sdrtrunk.md)**
 ![sdrtrunk](screenshots/sdrtrunk-5.png)
 
-**[Coming Soon] Watch air traffic overhead (ADS-B)**
+**Watch air traffic overhead (ADS-B)**
 ![adsb](screenshots/adsb-1.png)
 
-**[Coming Soon] Rerad temperature sensors**
+**Rerad temperature sensors**
 ![adsb](screenshots/temp-sensor-1.png)
 
-**[Coming Soon] Decode packet radio (APRS)**
-**[External] [Reverse Engineer Resturant Pagers](https://www.rtl-sdr.com/using-a-hackrf-to-reverse-engineer-and-control-restaurant-pagers/)**
-**[External] [Build an IMSI Catcher](https://harrisonsand.com/imsi-catcher/)**
+**[Coming Soon] Decode packet radio (APRS)**   
+**[External] [Reverse Engineer Resturant Pagers](https://www.rtl-sdr.com/using-a-hackrf-to-reverse-engineer-and-control-restaurant-pagers/)**   
+**[External] [Build an IMSI Catcher](https://harrisonsand.com/imsi-catcher/)**   
 
 ## Hardware
 
