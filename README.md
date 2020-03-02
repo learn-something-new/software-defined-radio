@@ -113,7 +113,7 @@ Examples:
 - [freqwatch](https://github.com/covertcodes/freqwatch) - frequency counter / logger
 - Inspectrum - analize offline signals
 - DSpectrumGUI
-- rtl_tcp
+- Freqwatch - frequency counter / logger
 - ham2mon - HAM Radio monitor
 
 ### Single Purpose
@@ -128,6 +128,11 @@ Examples:
 - [PyPacket](https://github.com/mike01/pypacker) - APRS I-Gate
 - [direwolf](https://github.com/wb2osz/direwolf) - APRS packet modem
 - [Xastir](https://github.com/Xastir/Xastir) - APRS Mapping
+
+### Utilities
+
+- rtl_tcp
+- [hackrf_tcp](https://github.com/jpenalbae/hackrf_tcp) - rtl_tcp implementation for hackrf
 
 ## License
 
