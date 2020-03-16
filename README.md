@@ -12,10 +12,13 @@
 ![adsb](screenshots/adsb-1.png)
 
 **Rerad temperature sensors**
-![rtl443](screenshots/temp-sensor-1.png)
+![rtl433](screenshots/temp-sensor-1.png)
 
 **Decode packet radio (APRS)**   
 ![aprs](screenshots/aprs-1.png)
+
+**Find amature radio broadcasts**   
+![ham](screenshots/ham2mon-1.png)
 
 ### Other Examples
 - [External] [Reverse Engineer Resturant Pagers](https://www.rtl-sdr.com/using-a-hackrf-to-reverse-engineer-and-control-restaurant-pagers/)
@@ -110,24 +113,29 @@ Examples:
 - Spektrum - Spectrum Analyzer
 - Universal Radio Hacker (URH) - analyze wireless protocols
 - rfcat
-- freqwatch
+- [freqwatch](https://github.com/covertcodes/freqwatch) - frequency counter / logger
 - Inspectrum - analize offline signals
 - DSpectrumGUI
-- rtl_tcp
-- Freqwatch - frequency counter / logger
-- ham2mon - HAM Radio monitor
+- [ham2mon](https://github.com/madengr/ham2mon) - HAM Radio monitor
 
 ### Single Purpose
 
-- Dump1090-fa - ADS-B
-- SDRtrunk - Monitor digital trunked radio
-- direwolf - APRS packet modem
-- Xastir - APRS Mapping
-- multimon-ng - decode pagers
+- [Dump1090-fa](https://github.com/flightaware/dump1090) - ADS-B
+- [SDRtrunk](https://github.com/DSheirer/sdrtrunk) - Monitor digital trunked radio
+- [multimon-ng](https://github.com/EliasOenal/multimon-ng/) - decode pagers
 - Spectrum Painter - Troll the radio waves
 - Ooktools - On-off keying tools
-- rtlamr - Smart Meter data receiver
-- rtl_443 - ISM band data receiver
+- [rtlamr](https://github.com/bemasher/rtlamr) - Smart Meter data receiver
+- [rtl_433](https://github.com/merbanan/rtl_433) - ISM band data receiver
+- [PyPacket](https://github.com/mike01/pypacker) - APRS I-Gate
+- [direwolf](https://github.com/wb2osz/direwolf) - APRS packet modem
+- [Xastir](https://github.com/Xastir/Xastir) - APRS Mapping
+
+### Utilities
+
+- rtl_tcp
+- [hackrf_tcp](https://github.com/jpenalbae/hackrf_tcp) - rtl_tcp implementation for hackrf
+- [SoapySDR](https://github.com/pothosware/SoapySDR) - Vendor neutral SDR library
 
 ## License
 
