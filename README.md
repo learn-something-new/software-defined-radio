@@ -113,8 +113,7 @@ Examples:
 - [freqwatch](https://github.com/covertcodes/freqwatch) - frequency counter / logger
 - Inspectrum - analize offline signals
 - DSpectrumGUI
-- Freqwatch - frequency counter / logger
-- ham2mon - HAM Radio monitor
+- [ham2mon](https://github.com/madengr/ham2mon) - HAM Radio monitor
 
 ### Single Purpose
 
