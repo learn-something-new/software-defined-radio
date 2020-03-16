@@ -127,7 +127,7 @@ Examples:
 - Ooktools - On-off keying tools
 - [rtlamr](https://github.com/bemasher/rtlamr) - Smart Meter data receiver
 - [rtl_433](https://github.com/merbanan/rtl_433) - ISM band data receiver
-- [PyPacket](https://github.com/mike01/pypacker) - APRS I-Gate
+- [PyPacket](https://github.com/cceremuga/pypacket) - APRS I-Gate
 - [direwolf](https://github.com/wb2osz/direwolf) - APRS packet modem
 - [Xastir](https://github.com/Xastir/Xastir) - APRS Mapping
 
