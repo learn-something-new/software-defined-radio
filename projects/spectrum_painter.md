@@ -37,7 +37,13 @@ Lets talk a little bit about the settings:
 ### Step 2
 
 ```bash
-pwntoo@ISeeRadioWaves ~/spectrum_painter $ hackrf_transfer -t dc902.iqhackrf -f 433000000 -b 10000000 -s 3200000 -x 20 -a 1
+$ hackrf_transfer \
+	-t dc902.iqhackrf \
+	-f 433000000 \
+	-b 10000000 \
+	-s 3200000 \
+	-x 20 \
+	-a 1
 call hackrf_set_sample_rate(3200000 Hz/3.200 MHz)
 call hackrf_baseband_filter_bandwidth_set(10000000 Hz/10.000 MHz)
 call hackrf_set_freq(433000000 Hz/433.000 MHz)
@@ -72,5 +78,17 @@ hackrf_close() done
 hackrf_exit() done
 fclose(fd) done
 exit
-
 ```
+
+Lets talk a little bit about the settings:
+
+- `-t dc902.iqhackrf`: The data file we created earlier
+- `-f 433000000`: Broadcast frequency (in hz)
+- `-b 10000000`: Baseband filter (in hz)
+- `-s 3200000`: Buffer size
+- `-x 20`: Transmit gain (in dB)
+- `-a 1`: RF amp (1 is on)
+
+## Results
+
+![spectrum-painter](../screenshots/spectrum-painter-1.png)

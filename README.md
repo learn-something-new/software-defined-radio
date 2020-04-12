@@ -20,6 +20,9 @@
 **Find amature radio broadcasts**   
 ![ham](screenshots/ham2mon-1.png)
 
+**Troll your friends**
+![spectrum-painter](screenshots/spectrum-painter-1.png)
+
 ### Other Examples
 - [External] [Reverse Engineer Resturant Pagers](https://www.rtl-sdr.com/using-a-hackrf-to-reverse-engineer-and-control-restaurant-pagers/)
 - [External] [Build an IMSI Catcher](https://harrisonsand.com/imsi-catcher/)
