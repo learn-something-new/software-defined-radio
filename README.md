@@ -191,7 +191,6 @@ Examples:
 | 19 | 27.185 MHz | Truckers (Highway) | 39 | 27.385 MHz | |
 | 20  | 27.205 MHz | | 40 | 27.405 MH | |
 
-
 ## License
 
 This tool is protected by the GNU General Public License v2.
