@@ -7,7 +7,7 @@ Only do this on bands that are unlicensed or you have a license for, additionall
 ## Requirements
 
 - An SDR that can transmit, I chose the HackRF however the spectrum_painter tool supports the BladeRF as well as a pure float output that can be used by other devices.
-- spectrum_painter
+- [Spectrum Painter](https://github.com/polygon/spectrum_painter)
 - *optional* GQRX or similar and a second SDR, this can be RX only as it would be just for monitoring
 
 ## Guide

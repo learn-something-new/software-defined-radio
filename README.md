@@ -126,8 +126,8 @@ Examples:
 - [Dump1090-fa](https://github.com/flightaware/dump1090) - ADS-B
 - [SDRtrunk](https://github.com/DSheirer/sdrtrunk) - Monitor digital trunked radio
 - [multimon-ng](https://github.com/EliasOenal/multimon-ng/) - decode pagers
-- Spectrum Painter - Troll the radio waves
-- Ooktools - On-off keying tools
+- [Spectrum Painter](https://github.com/polygon/spectrum_painter) - Troll the radio waves
+- [Ooktools](https://github.com/leonjza/ooktools) - On-off keying tools
 - [rtlamr](https://github.com/bemasher/rtlamr) - Smart Meter data receiver
 - [rtl_433](https://github.com/merbanan/rtl_433) - ISM band data receiver
 - [PyPacket](https://github.com/mike01/pypacker) - APRS I-Gate
