@@ -2,26 +2,29 @@
 
 ## Uses
 
-**[Monitor your water meter](projects/water-meter.md)**
-![rtlamr](screenshots/water-meter-4.png)
+**Watch air traffic overhead (ADS-B)**
+![adsb](screenshots/adsb-1.png)
 
 **[Listen to local ambulance and fire (Digital Trunked Radio)](projects/sdrtrunk.md)**
 ![sdrtrunk](screenshots/sdrtrunk-5.png)
 
-**Watch air traffic overhead (ADS-B)**
-![adsb](screenshots/adsb-1.png)
+**[Troll your friends](projects/spectrum_painter.md)**
+![spectrum-painter](screenshots/spectrum-painter-1.png)
+
+**[Transmit FM Audio](projects/transmit.md)**   
+![fm-transmit](screenshots/transmit-2.png)
+
+**[Monitor your water meter](projects/water-meter.md)**
+![rtlamr](screenshots/water-meter-4.png)
 
 **Rerad temperature sensors**
 ![rtl433](screenshots/temp-sensor-1.png)
 
-**Decode packet radio (APRS)**   
+**Decode packet radio (APRS)**
 ![aprs](screenshots/aprs-1.png)
 
-**Find amature radio broadcasts**   
+**Find amature radio broadcasts**
 ![ham](screenshots/ham2mon-1.png)
-
-**Troll your friends**
-![spectrum-painter](screenshots/spectrum-painter-1.png)
 
 ### Other Examples
 - [External] [Reverse Engineer Resturant Pagers](https://www.rtl-sdr.com/using-a-hackrf-to-reverse-engineer-and-control-restaurant-pagers/)
