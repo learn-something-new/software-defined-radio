@@ -22,4 +22,4 @@ Only do this on bands that are unlicensed or you have a license for, additionall
 
 ## In Use
 
-![cli](//screenshots/transmit-2.png)
+![cli](../screenshots/transmit-2.png)
