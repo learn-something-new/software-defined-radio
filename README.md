@@ -8,7 +8,7 @@
 **[Listen to local ambulance and fire (Digital Trunked Radio)](projects/sdrtrunk.md)**
 ![sdrtrunk](screenshots/sdrtrunk-5.png)
 
-**[Troll your friends](projects/spectrum_painter.md**
+**[Troll your friends](projects/spectrum_painter.md)**
 ![spectrum-painter](screenshots/spectrum-painter-1.png)
 
 **[Transmit FM Audio](projects/transmit.md)**   
