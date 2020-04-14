@@ -9,3 +9,17 @@ Only do this on bands that are unlicensed or you have a license for, additionall
 - An SDR that can transmit
 - [GNURadio](https://www.gnuradio.org/)
 - *Optional* [GNURadio Companion](https://wiki.gnuradio.org/index.php/GNURadioCompanion)
+
+## Resources
+
+- [grc workflow](../resources/transmit.grc)
+- [generated python source](../resources/transmit.py)
+- [sample audio file](../resources/morse.wav)
+
+## GRC Workflow
+
+[![grc](../screenshots/transmit-1.png)](../resources/transmit.grc)
+
+## In Use
+
+![cli](//screenshots/transmit-2.png)
