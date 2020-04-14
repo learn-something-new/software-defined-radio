@@ -11,7 +11,7 @@
 **[Troll your friends](projects/spectrum_painter.md**
 ![spectrum-painter](screenshots/spectrum-painter-1.png)
 
-**[Transmit FM Audio](projects/transmit.md)**
+**[Transmit FM Audio](projects/transmit.md)**   
 ![fm-transmit](screenshots/transmit-2.png)
 
 **[Monitor your water meter](projects/water-meter.md)**
