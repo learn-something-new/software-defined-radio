@@ -31,6 +31,15 @@
 - [External] [Reverse Engineer Resturant Pagers](https://www.rtl-sdr.com/using-a-hackrf-to-reverse-engineer-and-control-restaurant-pagers/)
 - [External] [Build an IMSI Catcher](https://harrisonsand.com/imsi-catcher/)
 
+## Resources
+
+- [RTL-SDR Blog](https://www.rtl-sdr.com/)
+- [The beginners Guide to Software Defined Radio](https://www.youtube.com/watch?v=nB6XQSEFwVA)
+- [WebSDR](http://www.websdr.org/)
+- [ADS-B Exchange](https://www.adsbexchange.com/)
+- [reddit.com/r/RTLSDR](https://www.reddit.com/r/RTLSDR/)
+- [Software Defined Radio with HackRF - Great Scott Gadgets](https://greatscottgadgets.com/sdr/)
+
 ## Hardware
 
 ### Receivers
@@ -194,6 +203,7 @@ Examples:
 | 18   | 27.175 MHz |                                 | 38   | 27.385 MHz |      |
 | 19   | 27.185 MHz | Truckers (Highway)              | 39   | 27.385 MHz |      |
 | 20   | 27.205 MHz |                                 | 40   | 27.405 MH  |      |
+
 
 ## License
 
