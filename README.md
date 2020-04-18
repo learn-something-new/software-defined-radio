@@ -17,7 +17,7 @@
 **[Monitor your water meter](projects/water-meter.md)**
 ![rtlamr](screenshots/water-meter-4.png)
 
-**Rerad temperature sensors**
+**Read temperature sensors**
 ![rtl433](screenshots/temp-sensor-1.png)
 
 **Decode packet radio (APRS)**
@@ -25,9 +25,6 @@
 
 **Find amature radio broadcasts**
 ![ham](screenshots/ham2mon-1.png)
-
-**Troll your friends**
-![spectrum-painter](screenshots/spectrum-painter-1.png)
 
 ### Other Examples
 
