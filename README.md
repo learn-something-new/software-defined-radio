@@ -30,6 +30,7 @@
 
 - [External] [Reverse Engineer Resturant Pagers](https://www.rtl-sdr.com/using-a-hackrf-to-reverse-engineer-and-control-restaurant-pagers/)
 - [External] [Build an IMSI Catcher](https://harrisonsand.com/imsi-catcher/)
+- [External] [Listen to FM Radio Signals](http://kmkeen.com/rtl-demod-guide/)
 
 ## Resources
 
@@ -121,6 +122,9 @@ Examples:
 - Broadcast FM - Reduces noise by removing frequencies frequencies in the 88 MHz to 108 MHz range (Broadcast FM)
 - Broadcast AM - Reduces noise by removing frequencies in the 525 kHz to 1.705 MHz range (broadcast AM)
 
+**DC Block**
+Some SDR's such as the Nooelec NESDR SMArTee provide DC power to be used by filters or active radios, in some cases this is not desired so a DC Block is used to "lift" or block the DC from passing through.
+
 ## Software
 
 ### General
@@ -146,6 +150,7 @@ Examples:
 - [PyPacket](https://github.com/mike01/pypacker) - APRS I-Gate
 - [direwolf](https://github.com/wb2osz/direwolf) - APRS packet modem
 - [Xastir](https://github.com/Xastir/Xastir) - APRS Mapping
+- [rtl_fm](http://manpages.ubuntu.com/manpages/trusty/man1/rtl_fm.1.html) - FM Demodulation
 
 ### Utilities
 
